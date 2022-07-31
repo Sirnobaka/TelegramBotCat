@@ -1,0 +1,13 @@
+Telebot
+https://www.youtube.com/watch?v=HodO2eBEz_8&t=774s
+
+Flask + ngrok
+https://habr.com/ru/post/495036/
+
+unhook with curl
+https://interseller.readme.io/reference/remove-webhook
+curl --request DELETE \
+> --url https://api.telegram.org/bot5210659967:AAG4-LwoXi81I9gfpx3emjJYwYt-cfWGWD0/setWebhook \
+> --header 'Accept: application/json'
+
+https://stackoverflow.com/questions/42796300/get-photo-in-telegram-bot-through-pytelegrambotapi
